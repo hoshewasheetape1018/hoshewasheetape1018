@@ -1,4 +1,4 @@
-# ☁︎ Hi, Hoshee!
+# ☁︎ Hi, I'm Hoshee!
 
 **Game Developer & Multimedia Artist** · 4th-year BSIT–Animation and Game Development student at FEU Tech
 
