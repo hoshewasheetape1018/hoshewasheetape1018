@@ -6,15 +6,11 @@ I make games in Unity and like working where art, code, and storytelling meet. I
 
 ✧ ─── ✧
 
-### Selected games
-
-- **[BULAN](https://hosheemaru.itch.io/bulan)** · A team capstone RPG prototype inspired by Kiniray-a folklore.
-- **[CAPTCHA](https://hosheemaru.itch.io/captcha)** · A Unity prototype for Checkpoint Game Jam. I led the team, made 2D art, painted 3D models, and helped with story and programming.
 
 ### What I work with
 
 - **Games & code:** Unity, C#, Python, Git
-- **Art & motion:** Maya, Photoshop, Paint Tool SAI 2, After Effects
+- **Art & motion:** Maya, Photoshop, Paint Tool SAI 2, After Effects, Blender, Substance Painter
 - **Web & design:** Figma, HTML/CSS, PHP, CodeIgniter 4
 
 ✧ [Play my games on itch.io](https://hosheemaru.itch.io/) ✧
